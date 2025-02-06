@@ -1,16 +1,6 @@
-## Hi there 👋
+## Hello 👋 
 
-<!--
-**kevinmatula/kevinmatula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on interleave studios
-- 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on a machine learning project
-- 🤔 I’m looking for help with competitive programming
-- 💬 Ask me about my projects
+- 🔭 I’m currently working on my personal website
+- 🌱 I’m currently learning Golang
+- 👯 I’m currently researching machine learning on low-resource programming languages
 - 📫 How to reach me: matulakevin91@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I speak Polish
--->
