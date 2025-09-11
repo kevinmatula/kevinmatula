@@ -1,6 +1,6 @@
 # Kevin Matula
 
-Hi! I'm Kevin, a Software Engineer and Computer Science student passionate about building efficient backend systems, full-stack applications, and innovative projects.
+Cześć ! I'm Kevin, a Software Engineer and Computer Science student passionate about building efficient backend systems, full-stack applications, and innovative projects.
 
 ---
 
