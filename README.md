@@ -1,6 +1,24 @@
-## Hello and welcome to my GitHub :-) 
+# Kevin Matula
 
-- 🔭 I’m currently working on a self-wellness web app
-- 🌱 Recently, I've started to focus on learning C++
-- 👯 My most recent role was as a software engineering intern at DesignAI
-- 📫 You can reach me here: matulakevin91@gmail.com
+Hi! I'm Kevin, a Software Engineer and Computer Science student passionate about building efficient backend systems, full-stack applications, and innovative projects.
+
+---
+
+## 🔹 About Me
+- 🏫 Second-Year CS student at Northeastern University  
+- 💻 Backend development with Go, C++, and Python
+- 🌐 Full-stack with Next.js, TypeScript, and Tailwind CSS  
+
+---
+
+## 🔹 Skills
+- **Languages:** Go, Python, TypeScript, Java, C++ 
+- **Frontend:** React, Next.js, Tailwind CSS  
+- **Backend & DB:** Fiber, MongoDB, Supabase  
+- **Tools:** Git, GitHub, VS Code, Linux  
+
+---
+
+## 🔹 Contact
+- 📧 Email: [matulakevin91@gmail.com](mailto:matulakevin91@gmail.com)  
+- 🌐 LinkedIn: [linkedin.com/in/kevinmatula](https://linkedin.com/in/kevinmatula)
