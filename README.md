@@ -21,4 +21,4 @@ Cześć ! I'm Kevin, a Software Engineer and Computer Science student passionate
 
 ## 🔹 Contact
 - 📧 Email: [matulakevin91@gmail.com](mailto:matulakevin91@gmail.com)  
-- 🌐 LinkedIn: https://www.linkedin.com/in/kevin-matula/
+- 🌐 LinkedIn: [www.linkedin.com/in/kevinmatula](https://www.linkedin.com/in/kevin-matula/)
