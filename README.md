@@ -7,6 +7,8 @@ Cześć ! I'm Kevin, a Software Engineer and Computer Science student passionate
     <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="30" height="30" />
 </div>
 
+[![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinmatula)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 ## 🔹 About Me
