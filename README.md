@@ -17,7 +17,7 @@ Cześć ! I'm Kevin, a Software Engineer and Computer Science student passionate
 ---
 
 ## ⛏️ Skills
-- **Languages:** C++. Go, Python, TypeScript, Java 
+- **Languages:** C++, Go, Python, TypeScript, Java 
 - **Frontend:** React, Next.js, Tailwind CSS  
 - **Backend & DB:** Fiber, MongoDB, Supabase  
 - **Tools:** Linux, Git, GitHub, VS Code
