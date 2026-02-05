@@ -1,6 +1,6 @@
 # Kevin Matula 🇺🇸🇵🇱
 
-Cześć ! I'm a Software Engineer and Computer Science student passionate about low-level programming.
+Cześć ! I'm a software engineer and computer science student passionate about low-level programming.
 
 - **Languages:** C/C++, Go, Python
 - **Tools:** Linux, Vim
