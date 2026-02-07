@@ -4,5 +4,5 @@ Cześć ! I'm a software engineer and computer science student passionate about 
 
 - **Languages:** C/C++, Go, Python, Bash
 - **Tools:** Linux, Vim
-- **Email**: [matulakevin91@gmail.com](mailto:matulakevin91@gmail.com)  
+- **Email**: [kevinmatula10[at]gmail[dot]com](mailto:matulakevin91@gmail.com)  
 - **LinkedIn**: [linkedin.com/in/kevinmatula](https://www.linkedin.com/in/kevin-matula/)
